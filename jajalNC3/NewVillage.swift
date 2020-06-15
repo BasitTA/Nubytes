@@ -9,22 +9,26 @@
 import UIKit
 
 class NewVillage: UIViewController {
-
+//    @IBOutlet var square: [UIImageView]!
+    @IBOutlet weak var txtBackground: UIImageView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-
-        // Do any additional setup after loading the view.
+        roundedCorner()
+        self.view.backgroundColor = UIColor(patternImage: UIImage(named: "new-village.png")!)
     }
     
-
-    /*
-    // MARK: - Navigation
-
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destination.
-        // Pass the selected object to the new view controller.
+    //rounded button & shadow
+    func roundedCorner(){
+//        for image in square{
+//            image.clipsToBounds = false
+//            image.layer.cornerRadius = 20
+//            image.layer.shadowColor = UIColor.black.cgColor
+//            image.layer.shadowOffset = CGSize(width: 3, height: 3)
+//            image.layer.shadowOpacity = 0.5
+//        }
+        txtBackground.layer.cornerRadius = 10
+        txtBackground.layer.borderColor = UIColor.black.cgColor
+        txtBackground.layer.borderWidth = 1
     }
-    */
-
 }
