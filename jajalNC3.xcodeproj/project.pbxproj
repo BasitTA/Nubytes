@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A50E26332494C3DD00A6016A /* BrokenVillage.swift in Sources */ = {isa = PBXBuildFile; fileRef = A50E26322494C3DD00A6016A /* BrokenVillage.swift */; };
+		A522D8402494D9C7001D0070 /* Congratulations.swift in Sources */ = {isa = PBXBuildFile; fileRef = A522D83F2494D9C7001D0070 /* Congratulations.swift */; };
+		A522D8422494D9EA001D0070 /* Shape.swift in Sources */ = {isa = PBXBuildFile; fileRef = A522D8412494D9EA001D0070 /* Shape.swift */; };
+		A522D8442494DA10001D0070 /* GoToSomewhere.swift in Sources */ = {isa = PBXBuildFile; fileRef = A522D8432494DA10001D0070 /* GoToSomewhere.swift */; };
+		A522D8462494DA36001D0070 /* ChooseOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = A522D8452494DA36001D0070 /* ChooseOne.swift */; };
+		A522D8482494DA65001D0070 /* ChooseOneFriend.swift in Sources */ = {isa = PBXBuildFile; fileRef = A522D8472494DA65001D0070 /* ChooseOneFriend.swift */; };
+		A522D84A2494DA7A001D0070 /* AskHisName.swift in Sources */ = {isa = PBXBuildFile; fileRef = A522D8492494DA7A001D0070 /* AskHisName.swift */; };
+		A522D84C2494DA96001D0070 /* FriendsProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = A522D84B2494DA96001D0070 /* FriendsProfile.swift */; };
+		A522D84E2494DAA2001D0070 /* Challenge.swift in Sources */ = {isa = PBXBuildFile; fileRef = A522D84D2494DAA2001D0070 /* Challenge.swift */; };
+		A522D8502494DBC0001D0070 /* NewVillage.swift in Sources */ = {isa = PBXBuildFile; fileRef = A522D84F2494DBC0001D0070 /* NewVillage.swift */; };
 		A559B21B2491C9910009ED6B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A559B21A2491C9910009ED6B /* AppDelegate.swift */; };
 		A559B21D2491C9910009ED6B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A559B21C2491C9910009ED6B /* SceneDelegate.swift */; };
 		A559B21F2491C9910009ED6B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A559B21E2491C9910009ED6B /* ViewController.swift */; };
@@ -16,6 +26,16 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A50E26322494C3DD00A6016A /* BrokenVillage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrokenVillage.swift; sourceTree = "<group>"; };
+		A522D83F2494D9C7001D0070 /* Congratulations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Congratulations.swift; sourceTree = "<group>"; };
+		A522D8412494D9EA001D0070 /* Shape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shape.swift; sourceTree = "<group>"; };
+		A522D8432494DA10001D0070 /* GoToSomewhere.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoToSomewhere.swift; sourceTree = "<group>"; };
+		A522D8452494DA36001D0070 /* ChooseOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChooseOne.swift; sourceTree = "<group>"; };
+		A522D8472494DA65001D0070 /* ChooseOneFriend.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChooseOneFriend.swift; sourceTree = "<group>"; };
+		A522D8492494DA7A001D0070 /* AskHisName.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AskHisName.swift; sourceTree = "<group>"; };
+		A522D84B2494DA96001D0070 /* FriendsProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendsProfile.swift; sourceTree = "<group>"; };
+		A522D84D2494DAA2001D0070 /* Challenge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge.swift; sourceTree = "<group>"; };
+		A522D84F2494DBC0001D0070 /* NewVillage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewVillage.swift; sourceTree = "<group>"; };
 		A559B2172491C9910009ED6B /* jajalNC3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = jajalNC3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A559B21A2491C9910009ED6B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A559B21C2491C9910009ED6B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +79,16 @@
 				A559B21A2491C9910009ED6B /* AppDelegate.swift */,
 				A559B21C2491C9910009ED6B /* SceneDelegate.swift */,
 				A559B21E2491C9910009ED6B /* ViewController.swift */,
+				A50E26322494C3DD00A6016A /* BrokenVillage.swift */,
+				A522D83F2494D9C7001D0070 /* Congratulations.swift */,
+				A522D8432494DA10001D0070 /* GoToSomewhere.swift */,
+				A522D84B2494DA96001D0070 /* FriendsProfile.swift */,
+				A522D84D2494DAA2001D0070 /* Challenge.swift */,
+				A522D84F2494DBC0001D0070 /* NewVillage.swift */,
+				A522D8492494DA7A001D0070 /* AskHisName.swift */,
+				A522D8472494DA65001D0070 /* ChooseOneFriend.swift */,
+				A522D8452494DA36001D0070 /* ChooseOne.swift */,
+				A522D8412494D9EA001D0070 /* Shape.swift */,
 				A559B2202491C9910009ED6B /* Main.storyboard */,
 				A559B2232491C9920009ED6B /* Assets.xcassets */,
 				A559B2252491C9920009ED6B /* LaunchScreen.storyboard */,
@@ -139,8 +169,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				A559B21F2491C9910009ED6B /* ViewController.swift in Sources */,
+				A522D84E2494DAA2001D0070 /* Challenge.swift in Sources */,
+				A522D8422494D9EA001D0070 /* Shape.swift in Sources */,
 				A559B21B2491C9910009ED6B /* AppDelegate.swift in Sources */,
+				A522D84C2494DA96001D0070 /* FriendsProfile.swift in Sources */,
 				A559B21D2491C9910009ED6B /* SceneDelegate.swift in Sources */,
+				A50E26332494C3DD00A6016A /* BrokenVillage.swift in Sources */,
+				A522D8502494DBC0001D0070 /* NewVillage.swift in Sources */,
+				A522D8462494DA36001D0070 /* ChooseOne.swift in Sources */,
+				A522D8402494D9C7001D0070 /* Congratulations.swift in Sources */,
+				A522D84A2494DA7A001D0070 /* AskHisName.swift in Sources */,
+				A522D8482494DA65001D0070 /* ChooseOneFriend.swift in Sources */,
+				A522D8442494DA10001D0070 /* GoToSomewhere.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -287,6 +327,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = W8Y334X76A;
 				INFOPLIST_FILE = jajalNC3/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -305,6 +346,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = W8Y334X76A;
 				INFOPLIST_FILE = jajalNC3/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
